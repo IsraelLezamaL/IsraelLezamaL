@@ -11,3 +11,4 @@ It is a pleasure!
 -   *Institutional E-Mail*: A01734758@tec.mx
 -   *Personal E-Mail*: israel_lezamal@hotmail.com
 -   *Phone Number*: +52 1 222 530 6635
+-   *LinkedIn*: www.linkedin.com/in/israel-lezama-lópez
