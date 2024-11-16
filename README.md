@@ -10,4 +10,4 @@ It is a pleasure!
 ## Contact Channels
 -   *Institutional E-Mail*: A01734758@tec.mx
 -   *Personal E-Mail*: israel_lezamal@hotmail.com
--   *LinkedIn*: www.linkedin.com/in/israel-lezama-lópez
+-   *LinkedIn*: https://www.linkedin.com/in/israellezamal/
